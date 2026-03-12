@@ -31,3 +31,14 @@ The dataset used in this analysis contains several features relevant to unemploy
 
 1. Pandas: A Python library for data manipulation, helping to clean, organize, and analyze large datasets efficiently.
 2. Matplotlib & Seaborn: Libraries for creating visualizations, making data insights easier to understand with charts and graphs. Matplotlib creates basic plots, while Seaborn offers enhanced and more complex visualizations.
+
+### Install library
+
+To install the libraries listed in your requirements.txt file, follow these steps:
+
+Navigate to your project directory in the terminal (where your requirements.txt file is located).
+
+Run the following command to install the required packages:
+```
+pip install -r requirements.txt
+```
