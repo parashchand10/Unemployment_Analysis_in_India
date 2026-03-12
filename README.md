@@ -11,6 +11,7 @@ The goal of this project is to explore and understand unemployment trends in Ind
 - Regional unemployment rates.
 - Employment numbers across regions.
 - Labor participation rates over time.
+- How much unemployment rate percentage  by year?
 
 ### Dataset Information
 
@@ -22,7 +23,7 @@ The dataset used in this analysis contains several features relevant to unemploy
 4. Estimated Unemployment Rate (%): Percentage of people unemployed but actively looking for jobs.
 5. Estimated Employed: Number of people currently employed in that region.
 6. Estimated Labor Participation Rate (%): The percentage of working-age people either working or actively looking for work.
-7. Area: Whether the data is from a Rural or Urban region.
+7. Area: The data is from a Rural or Urban region.
 
 ### Libraries Used
 
