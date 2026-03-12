@@ -10,7 +10,7 @@ The goal of this project is to explore and understand unemployment trends in Ind
 ```
 Q. How are the numerical features in the unemployment dataset correlated with each other?
 ```
-![Alt text](image-url)
+![Alt text](https://github.com/parashchand10/Unemployment_Analysis_in_India/blob/main/unemployment.png)
 ```
 Q. How does unemployment rate differ between Urban and Rural areas?
 Q. Which regions have the highest average unemployment rate?
