@@ -1,5 +1,7 @@
 # Unemployment in India: Data Analysis and Insights
 
+<img src="/unemployment.png" alt="Unemployment Analysis" width="600" height="400" />
+
 ### Overview
 
 This project focuses on analyzing unemployment trends in India, using various datasets to understand regional disparities, employment rates, and the impact of labor force participation across different regions of India. The analysis includes steps such as data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful insights from the data.
@@ -9,9 +11,6 @@ This project focuses on analyzing unemployment trends in India, using various da
 The goal of this project is to explore and understand unemployment trends in India by analyzing:
 ```
 Q. How are the numerical features in the unemployment dataset correlated with each other?
-```
-![Alt text]<img src="/unemployment.png" alt="Unemployment Analysis" width="600" />
-```
 Q. How does unemployment rate differ between Urban and Rural areas?
 Q. Which regions have the highest average unemployment rate?
 Q. How does unemployment rate differ between Urban and Rural areas?
