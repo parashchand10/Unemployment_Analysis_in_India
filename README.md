@@ -1,7 +1,7 @@
 # Unemployment in India: Data Analysis and Insights
 
 <img src="/unemployment.png" alt="Unemployment Analysis" width="700" height="800" />
-
+---
 ### Overview
 
 This project focuses on analyzing unemployment trends in India, using various datasets to understand regional disparities, employment rates, and the impact of labor force participation across different regions of India. The analysis includes steps such as data cleaning, exploratory data analysis (EDA), and visualization to derive meaningful insights from the data.
@@ -16,7 +16,7 @@ Q. Which regions have the highest average unemployment rate?
 Q. How does unemployment rate differ between Urban and Rural areas?
 Q. How is the estimated unemployed rate distributed across regions/state areas?
 ```
-
+---
 ### Dataset Information
 
 The dataset used in this analysis contains several features relevant to unemployment data in India, such as:
@@ -29,11 +29,13 @@ The dataset used in this analysis contains several features relevant to unemploy
 6. Estimated Labor Participation Rate (%): The percentage of working-age people either working or actively looking for work.
 7. Area: The data is from a Rural or Urban region.
 
+---
 ### Libraries Used
 
 1. Pandas: A Python library for data manipulation, helping to clean, organize, and analyze large datasets efficiently.
 2. Matplotlib & Seaborn: Libraries for creating visualizations, making data insights easier to understand with charts and graphs. Matplotlib creates basic plots, while Seaborn offers enhanced and more complex visualizations.
 
+---
 ### Install library
 
 To install the libraries listed in your requirements.txt file, follow these steps:
